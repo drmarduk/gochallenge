@@ -1,0 +1,6 @@
+C:\Users\raphael\code\C#\gochallenge\gochallenge\bin\Debug\gochallenge.exe.config
+C:\Users\raphael\code\C#\gochallenge\gochallenge\obj\Debug\gochallenge.csprojResolveAssemblyReference.cache
+C:\Users\raphael\code\C#\gochallenge\gochallenge\bin\Debug\gochallenge.exe
+C:\Users\raphael\code\C#\gochallenge\gochallenge\bin\Debug\gochallenge.pdb
+C:\Users\raphael\code\C#\gochallenge\gochallenge\obj\Debug\gochallenge.exe
+C:\Users\raphael\code\C#\gochallenge\gochallenge\obj\Debug\gochallenge.pdb
